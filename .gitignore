@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/VideoCalling/node_modules
+/VideoCalling/.pnp
+/VideoCalling/.pnp.js
+
+# testing
+/VideoCalling/coverage
+
+# production
+/VideoCalling/build
+
+# misc
+/VideoCalling/.DS_Store
+/VideoCalling/.env.local
+/VideoCalling/.env.development.local
+/VideoCalling/.env.test.local
+/VideoCalling/.env.production.local
+
+/VideoCalling/npm-debug.log*
+/VideoCalling/yarn-debug.log*
+/VideoCalling/yarn-error.log*
+
+/Server/node_modules
